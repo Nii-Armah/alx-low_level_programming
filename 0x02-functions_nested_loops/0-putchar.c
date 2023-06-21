@@ -3,7 +3,8 @@
 /**
  * main - Write the string "_putchar" followed by a newline to stdout.
  *
- * Return: zero if the program executes succesfully. A negative value otherwise.
+ * Return: zero if the program executes succesfully. A negative value
+ * otherwise.
  */
 int main(void)
 {
